@@ -22,9 +22,9 @@ echo DONE
 
 echo 
 
-echo Setting up bashrc and zshrc...
+echo Setting up *bashrc - uncomment to use - and zshrc...
 cp zsh/.zshrc ~/
-cp bash/.bashrc ~/
+#cp bash/.bashrc ~/
 echo DONE
 
 echo
