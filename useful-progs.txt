@@ -1,0 +1,31 @@
+imv(!!!!! maravilhoso pra quem eh nerdao e quer ver imagens de forma minimalista, estilo zathura)
+etcher
+boxes
+emacs
+ferdi(mais ou menos)
+ghostwriter
+inkscape
+kdenlive
+teams
+mpv
+obs studio
+gimp
+qutebrowser
+vlc
+stremio
+telegram
+transmission
+urxvt
+kitty
+terminator
+variety(super cool)
+videoDownloader(youtubedl de preguicoso)
+viewnior(marromeno)
+xournal++(bom pra window manager, e quando nao funfa o libreoffice draw(**quase sempre**))
+shortwave
+zenkit(trello mais chique)
+zathura(top dmsssss)
+spotify(bacana, mas tem o spotify tui bem melhor <33)
+discord
+thunderbird
+
