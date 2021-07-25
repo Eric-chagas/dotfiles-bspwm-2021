@@ -4,6 +4,7 @@ echo INSTALL ALACRITTY FIRST THING IN ORDER TO USE BSPWM
 echo 	or change bspwm terminal settings at .config/sxhkd
 
 sudo eopkg install dmenu
+sudo eopkg install bspwm
 
 echo installed dmenu, navigate away...
 
