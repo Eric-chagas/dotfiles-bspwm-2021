@@ -39,31 +39,3 @@ cp .dmrc ~/
 cp .profile ~/
 cp favoritos_* ~/
 echo DONE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
